@@ -6,7 +6,7 @@ My daily LeetCode practice, organized by topic. Each solution file has the probl
 
 | Easy | Medium | Hard | Total |
 |------|--------|------|-------|
-| 3    | 2      | 0    | 5     |
+| 3    | 4      | 0    | 7     |
 
 ## Solved Problems
 
@@ -18,6 +18,8 @@ My daily LeetCode practice, organized by topic. Each solution file has the probl
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy | Strings | O(n·m) | O(m) | 2026-11-14 |
 | 518 | [Coin Change II](https://leetcode.com/problems/coin-change-ii/) | Medium | DP | O(n·amount) | O(amount) | 2026-11-16 |
 | 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | Medium | Trees (DFS) | O(n) | O(h) | 2026-11-17 |
+| 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Medium | Graphs (BFS) | O(m·n) | O(m·n) | 2026-11-17 |
+| 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | Backtracking | O(4^n · n) | O(n) | 2026-11-17 |
 ## Structure
 
 ```
