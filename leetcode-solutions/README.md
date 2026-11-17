@@ -6,7 +6,7 @@ My daily LeetCode practice, organized by topic. Each solution file has the probl
 
 | Easy | Medium | Hard | Total |
 |------|--------|------|-------|
-| 3    | 0      | 0    | 3     |
+| 3    | 2      | 0    | 5     |
 
 ## Solved Problems
 
@@ -17,6 +17,7 @@ My daily LeetCode practice, organized by topic. Each solution file has the probl
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | Stack / Queue | push O(1), pop/peek amortized O(1), empty O(1) | O(n) | 2026-11-09 |
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy | Strings | O(n·m) | O(m) | 2026-11-14 |
 | 518 | [Coin Change II](https://leetcode.com/problems/coin-change-ii/) | Medium | DP | O(n·amount) | O(amount) | 2026-11-16 |
+| 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | Medium | Trees (DFS) | O(n) | O(h) | 2026-11-17 |
 ## Structure
 
 ```
