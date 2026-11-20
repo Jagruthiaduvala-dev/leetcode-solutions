@@ -6,7 +6,7 @@ My daily LeetCode practice, organized by topic. Each solution file has the probl
 
 | Easy | Medium | Hard | Total |
 |------|--------|------|-------|
-| 5    | 6      | 2    | 13     |
+| 5    |  9     | 2    | 16    |
 
 ## Solved Problems
 
@@ -25,6 +25,9 @@ My daily LeetCode practice, organized by topic. Each solution file has the probl
 | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | Hard | Linked List | O(n) | O(1) | 2026-11-19 |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | Trees (DFS) | O(n) | O(h) | 2026-11-19 |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | Binary Search | O(log n) | O(1) | 2026-11-19 |
+| 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | Hashing | O(1) | O(1) | 2026-11-20 |
+| 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | Backtracking | O(N^(T/M)) | O(T/M) | 2026-11-20 |
+| 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | Medium | Backtracking | O(2^n) | O(n) | 2026-11-20 |
 ## Structure
 
 ```
