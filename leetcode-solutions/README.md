@@ -6,7 +6,7 @@ My daily LeetCode practice, organized by topic. Each solution file has the probl
 
 | Easy | Medium | Hard | Total |
 |------|--------|------|-------|
-| 3    | 4      | 0    | 7     |
+| 5    | 6      | 2    | 13     |
 
 ## Solved Problems
 
@@ -20,6 +20,11 @@ My daily LeetCode practice, organized by topic. Each solution file has the probl
 | 1448 | [Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) | Medium | Trees (DFS) | O(n) | O(h) | 2026-11-17 |
 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Medium | Graphs (BFS) | O(m·n) | O(m·n) | 2026-11-17 |
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | Backtracking | O(4^n · n) | O(n) | 2026-11-17 |
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | Medium | Backtracking | O(4^n / √n) | O(n) | 2026-11-18 |
+| 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | Heap / Linked List | O(N log k) | O(k) | 2026-11-18 |
+| 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | Hard | Linked List | O(n) | O(1) | 2026-11-19 |
+| 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | Trees (DFS) | O(n) | O(h) | 2026-11-19 |
+| 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | Binary Search | O(log n) | O(1) | 2026-11-19 |
 ## Structure
 
 ```
