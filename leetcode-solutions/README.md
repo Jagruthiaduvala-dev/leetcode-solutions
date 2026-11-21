@@ -6,7 +6,7 @@ My daily LeetCode practice, organized by topic. Each solution file has the probl
 
 | Easy | Medium | Hard | Total |
 |------|--------|------|-------|
-| 5    |  9     | 2    | 16    |
+| 5    |  12     | 2    | 19    |
 
 ## Solved Problems
 
@@ -28,6 +28,9 @@ My daily LeetCode practice, organized by topic. Each solution file has the probl
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | Hashing | O(1) | O(1) | 2026-11-20 |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | Backtracking | O(N^(T/M)) | O(T/M) | 2026-11-20 |
 | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | Medium | Backtracking | O(2^n) | O(n) | 2026-11-20 |
+| 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | Medium | Math / Strings | O(m·n) | O(m+n) | 2026-11-21 |
+| 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | Medium | Greedy | O(n) | O(1) | 2026-11-21 |
+| 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium | Math (Binary Exponentiation) | O(log n) | O(1) | 2026-11-21 |
 ## Structure
 
 ```
